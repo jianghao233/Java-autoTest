@@ -1,0 +1,2 @@
+启动命令：java -jar ./moco-runner-0.11.0-standalone.jar http -p 8899 -c startup1.json
+//格式：java -jar .moco 路径 http -p 端口号 -c 要运行的json

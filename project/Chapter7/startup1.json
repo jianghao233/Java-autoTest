@@ -1,0 +1,14 @@
+[
+  {
+    "description":"这是我们的第一个mock例子",
+    "request":{ 	//请求要代理的东西（默认get）
+      "uri":"/demo"   //访问路径
+    },
+    "response":{    //响应内容
+      "text":"第一个moco框架demo"
+    }
+
+  }
+
+
+]
