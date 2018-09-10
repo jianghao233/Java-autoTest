@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Chapter10
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Jianghao
+Implementation-Vendor-Id: com.course.code
+Build-Jdk: 1.8.0_25
+Implementation-URL: http://projects.spring.io/spring-boot/Chapter/Chap
+ ter10/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
